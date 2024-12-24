@@ -9,6 +9,9 @@ This is the repository which contains PPG project documents, microcontroller fir
 ##### "FPB-RA4E1 Quick start guide" [click here](https://www.renesas.com/en/document/qsg/fpb-ra4e1-quick-start-guide?r=1527296#:~:text=The%20FPB%2DRA4E1%20Fast%20Prototyping,make%20further%20investments%20in%20tools.)
 </center>
 
+##### "FPB-RA4E1 User manual" [click here](https://www.renesas.com/en/document/mat/fpb-ra4e1-users-manual?srsltid=AfmBOorcaggMb13ZcnLC2UZd9g_1g280orFuA-2et-hcn7GL4Gg3oa5H)
+</center>
+
 ## Hardware detail:
 This example can be executed on RENESAS FPBRA4E1(R7FA4E10D2CFM), the only required using i2c interface with MAX86150 extranl sensor.
 

@@ -41,10 +41,18 @@ This example can be executed on `RENESAS FPBRA4E1(R7FA4E10D2CFM)`, the only requ
 </center>
 
 `i) pin configuration as show in the below picture` 
+>[!NOTE]
+> Enable the operation mode
+
 ![picture](./e2studio/pictures/Configure_RA4E1.png)
 </br>
 
 `ii)iic configuration as show in the below picture `
+>[!NOTE]
+> 1. Select stacks
+> 2. click g_iic_master stack  (then properties shows)
+> 3. goto properties add slave add and configure iic (left_downside) 
+
 ![picture](./e2studio/pictures/iic_stacks.png)
 </br>
 

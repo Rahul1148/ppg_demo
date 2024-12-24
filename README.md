@@ -53,5 +53,5 @@ iii) stacks properties
 
 ## IDE Information & Documents :
 
-### "Checkout about e2studio" [Click here](https://www.renesas.com/en/software-tool/e-studio?srsltid=AfmBOoofsyZ-vZtebnAy63cVHOU4tqkWEnhXESOGg8qhTQyPTHtpYvmC)
+### "Checkout e2studio downlonds" [Click here](https://www.renesas.com/en/software-tool/e-studio?srsltid=AfmBOoofsyZ-vZtebnAy63cVHOU4tqkWEnhXESOGg8qhTQyPTHtpYvmC)
 

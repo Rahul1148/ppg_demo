@@ -19,6 +19,11 @@ This example can be executed on RENESAS FPBRA4E1(R7FA4E10D2CFM), the only requir
  | INT              | --                   |  Interrupt        |
 
 
+![*e2studio setup*](pictues/Configure_RA4E1.jpg)
+
+
+
+
 ## IDE Information :
 
 ### "Checkout about e2studio" [Click here](https://www.renesas.com/en/software-tool/e-studio?srsltid=AfmBOoofsyZ-vZtebnAy63cVHOU4tqkWEnhXESOGg8qhTQyPTHtpYvmC)

@@ -31,11 +31,11 @@ i) pin configuration as show in the below picture
 </center>
 
 ii)iic configuration as show in the below picture 
-![picture](./e2studio/pictures/iic_stacks)
+![picture](./e2studio/pictures/iic_stacks.png)
 </center>
 
 iii) stacks properties
-![picture](/e2studio/picture/stack_properties)
+![picture](./e2studio/picture/stacks_properties.png)
 
 
 

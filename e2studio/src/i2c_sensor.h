@@ -16,10 +16,7 @@
 ///      Tools:  e2StudioIDE
 ///      Device:   RENESASA FPB-RA4E1(R7FA4E10D2CFM)
 ///      Operating System: windows 10
-///      e2studio Version: 4.30.0.v20231201-0110
-///      Eclipse CDT Version: 11.4.0.202309142347
-///      IDF Eclipse Plugin Version: 3.0.0.202406051940
-///      IDF Version:   5.3
+///      e2studio Version: 
 //-----------------------------------------------------------------
 
 #ifndef I2C_SENSOR_H_

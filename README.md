@@ -10,10 +10,10 @@ This is the repository which contains PPG project documents, microcontroller fir
 </center>
 
 ##### "FPB-RA4E1 User manual" [click here](https://www.renesas.com/en/document/mat/fpb-ra4e1-users-manual?srsltid=AfmBOorcaggMb13ZcnLC2UZd9g_1g280orFuA-2et-hcn7GL4Gg3oa5H)
-</center>
+</clean>
 
 ##### "FPB-RA4E1 Example projects user guide" [click here](https://github.com/renesas/ra-fsp-examples/blob/master/example_projects/Example%20Project%20Usage%20Guide.pdf)
-</center>
+</br>
 
 ## Hardware detail:
 This example can be executed on RENESAS FPBRA4E1(R7FA4E10D2CFM), the only required using i2c interface with MAX86150 extranl sensor.
@@ -27,6 +27,8 @@ This example can be executed on RENESAS FPBRA4E1(R7FA4E10D2CFM), the only requir
  | 3.3V             | 3.3V                 |  Power           |
  | GND              | GND                  |  GND             |
  | INT              | --                   |  Interrupt        |
+ 
+</br>
 
 ## Software detail:
 1)In this example  configuration of iic_master is important to communicate with max86150 sensore as showing above pin 

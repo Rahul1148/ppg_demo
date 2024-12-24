@@ -35,7 +35,7 @@ ii)iic configuration as show in the below picture
 </center>
 
 iii) stacks properties
-![picture](./e2studio/picture/stacks_properties.png)
+![picture](./e2studio/pictures/stacks_properties.png)
 
 
 

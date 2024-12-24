@@ -5,7 +5,7 @@ This is the repository which contains PPG project documents, microcontroller fir
 | Supported Targets | FPB-RA4E1 | 
 | :----------------- | :--------- |
 
-## Hardware & Software detail:
+## Hardware detail:
 This example can be executed on RENESAS FPBRA4E1(R7FA4E10D2CFM), the only required using i2c interface with MAX86150 extranl sensor.
 
 ### "Checkout about MAX86150" [Click here](https://github.com/Protocentral/protocentral_max86150_ecg_ppg/blob/master/README.md)
@@ -18,9 +18,24 @@ This example can be executed on RENESAS FPBRA4E1(R7FA4E10D2CFM), the only requir
  | GND              | GND                  |  GND             |
  | INT              | --                   |  Interrupt        |
 
+## Software detail:
+1)In this example  configuration of iic_master is important to communicate with max86150 sensore as showing above pin 
+  configuration in harware details.
+  </center>
+  
+2)checkout how to setup the iic in the e2studio check out here. 
+</center>
 
-![*e2studio setup*](pictues/Configure_RA4E1.jpg)
+i) pin configuration as show in the below picture 
+![picture](./e2studio/pictures/Configure_RA4E1.png)
+</center>
 
+ii)iic configuration as show in the below picture 
+![picture](./e2studio/pictures/iic_stacks)
+</center>
+
+iii) stacks properties
+![picture](/e2studio/picture/stack_properties)
 
 
 

@@ -17,8 +17,8 @@
 
 ## Hardware detail:
 This example can be executed on `RENESAS FPBRA4E1(R7FA4E10D2CFM)`, the only required using i2c interface with `MAX86150` extranl sensor.
-
-#### "Checkout about MAX86150" [Click here](https://github.com/Protocentral/protocentral_max86150_ecg_ppg/blob/master/README.md)
+>[!IMPORTANT]
+>#### "Checkout about MAX86150" [Click here](https://github.com/Protocentral/protocentral_max86150_ecg_ppg/blob/master/README.md)
 <clean>
 
  #### Connection:

@@ -18,10 +18,10 @@ This is the repository which contains PPG project documents, microcontroller fir
 ## Hardware detail:
 This example can be executed on RENESAS FPBRA4E1(R7FA4E10D2CFM), the only required using i2c interface with MAX86150 extranl sensor.
 
-### "Checkout about MAX86150" [Click here](https://github.com/Protocentral/protocentral_max86150_ecg_ppg/blob/master/README.md)
+#### "Checkout about MAX86150" [Click here](https://github.com/Protocentral/protocentral_max86150_ecg_ppg/blob/master/README.md)
 <clean>
 
- ### Connection 
+ #### Connection:
  |MAX86150 pin label| RA4E1 Connection  |Pin Function      |
  |:-----------------: |:---------------------:|:------------------:|
  | SDA              | SDA                  |  Serial Data     |
@@ -55,5 +55,5 @@ iii) stacks properties
 
 ## IDE Information & Documents :
 
-### "Checkout e2studio downlonds" [Click here](https://www.renesas.com/en/software-tool/e-studio?srsltid=AfmBOoofsyZ-vZtebnAy63cVHOU4tqkWEnhXESOGg8qhTQyPTHtpYvmC)
+#### "Checkout e2studio downlonds" [Click here](https://www.renesas.com/en/software-tool/e-studio?srsltid=AfmBOoofsyZ-vZtebnAy63cVHOU4tqkWEnhXESOGg8qhTQyPTHtpYvmC)
 
